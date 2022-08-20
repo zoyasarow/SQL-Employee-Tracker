@@ -122,7 +122,7 @@ function addEmployee() {
 
   ]).then((response) => {
     const employeeNew = [response.eId, response.eFirstName, response.eLastName, response.eRoleId];
-    db.query("INSERT INTO employee (id, first_name, last_name, role_id) VALUES (?,?,?)", employeeNew, (err, result) => {
+    db.query("INSERT INTO employee (id, first_name, last_name, role_id) VALUES (?,?,?,?)", employeeNew, (err, result) => {
       if (err) {
         throw err
         return;
