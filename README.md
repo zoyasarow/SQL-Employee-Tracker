@@ -3,6 +3,8 @@ undefined
 
 # SQL Team Profile Generator
 
+Demo Video:
+
 ## Description 
 AS A business owner I WANT to be able to view and manage the departments, roles, and employees in my company SO THAT I can organize and plan my business This application works to help organize a workplace's departments, roles and employees in order to increase operations and make it easy to access important workplace information in a sql database Through this application, I learned more about creating tables and databases in SQL, as well as using node and inquirer with SQL to get the necessary information
 
