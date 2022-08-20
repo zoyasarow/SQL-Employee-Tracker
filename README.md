@@ -1,7 +1,7 @@
 
 undefined
 
-# SQL Team Profile Generator
+# SQL Employee Tracker
 
 [Demo Video](https://drive.google.com/file/d/1xb1zzfFhj04lK5Sf0NEPQ43nv1q2ExMw/view?usp=sharing)
 
